@@ -19,6 +19,6 @@
     <button type="button" class="btn btn-dark">CLICK ME!</Button>
     <button type="button" class="btn btn-primary">CLICK ME!</Button>
     <button type="button" class="btn btn-success">CLICK ME!</Button>
-    <a href ="https://www.heroku.com">Heroku.com</a>
+    <a href ="https://www.heroku.com" class="btn btn-success">Heroku.com</a>
      
     <?php require "includes/footer.php" ?> 
